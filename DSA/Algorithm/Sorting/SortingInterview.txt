@@ -1,0 +1,17 @@
+# 1 - Sort 10 schools around your house by distance: Bubble Sort, Insertion Sort 
+
+# 2 - eBay sorts listings by the current Bid amount: (BID: 1 dollar -> 100 dollars) Radix or Counting Sort 
+
+# 3 - Sort scores on ESPN: Bubble Sort: Quick Sort 
+
+# 4 - Massive database (can't fit all into memory) needs to sort through past year's user database: Merge Sort 
+
+# 5 - Almost sorted Udemy review data needs to update and add 2 new reviews: Insertion Sort 
+
+# 6 - Temperature Records for the past 50 years in Canada: Radix or Counting Sort 
+
+# 7 - Large user name database needs to be sorted. Data is very random: Merge Sort, Quick Sort
+
+# 8 - You want to teach sorting for the first time: Selection Sort 
+
+Hello 
