@@ -1,0 +1,4 @@
+As Breadth First Search can be really efficient in searching the shortest path but there's a problem 
+when we traverse through graph. When they have weight, we need to use other efficient algorithms
+which are Dijkstra and Bellman-Ford algorithms. Remember that there's a drawback of Dijkstra 
+algorithm is that it cannot process graph with negative weight -> use Bellman-Ford
